@@ -1665,6 +1665,10 @@ h3 {
   font-size: 12px;
   font-weight: 400;
 }
+.contact-form .optional-label {
+  display: block;
+  margin-top: 9px;
+}
 .form-privacy-note {
   color: #59635c;
   font-size: 12px;
