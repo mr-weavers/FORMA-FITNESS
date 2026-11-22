@@ -27,9 +27,6 @@
 
 ---
 
-### Technologies
-HTML5 · CSS3 · Vanilla JavaScript
----
 ### Project
 A demonstration project by Web-Weavers, showcasing front-end website design and development.
 ---
