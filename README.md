@@ -1,7 +1,11 @@
+<div align="center">
 # FORMA BY WEB-WEAVERS
 
 **Move Better. Live Better.**
 
+`HTML5` · `CSS3` · `Vanilla JavaScript` · `Zero Dependencies`
+
+</div>
 FORMA is a five-page demonstration website showcasing a modern approach to fitness and wellness. Built using HTML, CSS, and native browser JavaScript, it delivers an interactive web experience without React, Vite, npm, or a build step.
 
 ### Features
@@ -21,4 +25,4 @@ A demonstration project by Web-Weavers, showcasing front-end website design and 
 ### Contact
 **Email:** webweavers.freelancer@gmail.com
 
-© Web-Weavers
+<p align="center"> © Web-Weavers </p>
